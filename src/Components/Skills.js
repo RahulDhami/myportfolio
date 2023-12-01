@@ -1,25 +1,22 @@
 import React from 'react';
 import { FaReact,FaGithub, FaNpm, FaFigma, FaBootstrap } from "react-icons/fa";
 import {  DiJavascript1 } from "react-icons/di";
-import { SiNextdotjs, SiPostman, SiTailwindcss, SiVercel } from "react-icons/si";
+import { SiCplusplus, SiNextdotjs, SiPostman, SiTailwindcss, SiVercel } from "react-icons/si";
 
 const Skills = ({ skill }) => {
   const icon = {
     // 'C++': <CgCPlusPlus/>,
     Postman: <SiPostman />,
     React: <FaReact />,
+    Cpp:<SiCplusplus/>,
     Javascript: <DiJavascript1 />,
     // Node : <DiNodejs/>,
     // Express : <SiExpress/>,
     // MongoDb : <SiMongodb/>,
     // Git : <FaGitAlt/>,
     Github: <FaGithub />,
-    Npm: <FaNpm />,
-    Figma: <FaFigma />,
-    Bootstrap: <FaBootstrap />,
-    Vercel: <SiVercel />,
-    Tailwind: <SiTailwindcss />,
-    NextJs: <SiNextdotjs />
+    Npm: <FaNpm />
+  
   }
 
   const style = {

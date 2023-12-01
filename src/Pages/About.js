@@ -35,17 +35,10 @@ const About = () => {
       <div className='skills'>
 
         <Skills skill='React' />
-        <Skills skill='C++' />
+        <Skills skill='Cpp' />
         <Skills skill='Javascript' />
-        <Skills skill='Postman' />
-        <Skills skill='Figma' />
-        <Skills skill='Vercel' />
         <Skills skill='Npm' />
-        <Skills skill='Bootstrap' />
-        <Skills skill='Tailwind' />
-        <Skills skill='Bootstrap' />
-        <Skills skill='NextJs' />
-
+        
       </div>
     </Layout>
   )

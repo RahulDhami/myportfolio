@@ -11,6 +11,7 @@ import Lottie from "lottie-react";
 import nightsky from "./LottieFiles/night-sky.json";
 import HashLoader from "react-spinners/HashLoader";
 import Error404 from "./Pages/Error404";
+import Qualification from "./Pages/Qualification";
 
 
 function App() {
@@ -49,8 +50,9 @@ function App() {
           <Routes>
             <Route exact path="/" element={<Home />} />
             <Route path="/About" element={<About />} />
-            <Route path="/Project" element={<Project />} />
+  
             <Route path="/Resume" element={<Resume />} />
+            <Route path="/Qualification" element={<Qualification />} />
             <Route path="*" element={<Error404 />} />
           </Routes>
 
