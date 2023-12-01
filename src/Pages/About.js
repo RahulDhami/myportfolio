@@ -13,9 +13,9 @@ const About = () => {
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
 
-            Hello, I'm <b>Devender Singh</b> from Uttarakhand, India, currently residing in Delhi. I hold a position as a <b>Front-End Developer</b> with one year of professional experience. <br /><br />
-            During my internship at Luezoid Technologies Pvt. Ltd, a software development startup, I worked as a <b>Front-End Developer</b>. I have a passion for crafting unique projects with visually appealing designs, and you can explore some of my work in the projects section.<br /><br />
-            I am <b>open</b> to new collaborations or work where I can contribute and grow. Feel free to connect with me, links are in the footer.<br />
+            Hello, I'm <b>Rahul Singh Dhami</b> from Uttarakhand, India.
+            Currently Iam in 2nd year of B.TEch.
+            Iam pursuing <b>B.Tech(CS)</b> from <b> Graphic Era Hill University,Bhimtal Campus.</b>            
           </p>
         </div>
 
@@ -35,7 +35,7 @@ const About = () => {
       <div className='skills'>
 
         <Skills skill='React' />
-        <Skills skill='Github' />
+        <Skills skill='C++' />
         <Skills skill='Javascript' />
         <Skills skill='Postman' />
         <Skills skill='Figma' />
