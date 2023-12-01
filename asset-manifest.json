@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-PortFolio/static/css/main.f15557d5.css",
-    "main.js": "/react-PortFolio/static/js/main.f3956b78.js",
-    "static/media/medreneur-web.png": "/react-PortFolio/static/media/medreneur-web.cf6dfe9cb66a13e8f1c5.png",
-    "static/media/Avatar.png": "/react-PortFolio/static/media/Avatar.fa312ccf8f85946c64d0.png",
-    "static/media/Resume.pdf": "/react-PortFolio/static/media/Resume.43dd78a0101145f3b99e.pdf",
-    "static/media/logo2.png": "/react-PortFolio/static/media/logo2.0cdfca7e7f73517eaf56.png",
-    "index.html": "/react-PortFolio/index.html",
-    "main.f15557d5.css.map": "/react-PortFolio/static/css/main.f15557d5.css.map",
-    "main.f3956b78.js.map": "/react-PortFolio/static/js/main.f3956b78.js.map"
+    "main.css": "/myportfolio/static/css/main.f15557d5.css",
+    "main.js": "/myportfolio/static/js/main.6c4b4332.js",
+    "static/media/medreneur-web.png": "/myportfolio/static/media/medreneur-web.cf6dfe9cb66a13e8f1c5.png",
+    "static/media/Avatar.png": "/myportfolio/static/media/Avatar.fa312ccf8f85946c64d0.png",
+    "static/media/Resume.pdf": "/myportfolio/static/media/Resume.43dd78a0101145f3b99e.pdf",
+    "static/media/logo2.png": "/myportfolio/static/media/logo2.0cdfca7e7f73517eaf56.png",
+    "index.html": "/myportfolio/index.html",
+    "main.f15557d5.css.map": "/myportfolio/static/css/main.f15557d5.css.map",
+    "main.6c4b4332.js.map": "/myportfolio/static/js/main.6c4b4332.js.map"
   },
   "entrypoints": [
     "static/css/main.f15557d5.css",
-    "static/js/main.f3956b78.js"
+    "static/js/main.6c4b4332.js"
   ]
 }
