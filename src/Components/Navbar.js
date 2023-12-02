@@ -46,7 +46,7 @@ const Nav = () => {
         <>
             <nav className={navbarblur ? 'Navbar blur' : 'Navbar'}>
                 <h1 onClick={() => setShow(!show)} title='Reload' className='Logo'>
-                    <img src={LOGO} height={40} alt='logo' />
+                    <img src={LOGO} height={50} alt='logo' />
                 </h1>
 
                 <div className='Hamburger' onClick={showMenu}>
@@ -58,7 +58,7 @@ const Nav = () => {
                 <ul className='NavbarLinks'>
                     <li onClick={hideMenu}><Link className={`${currentRoute === '/' ? "active" : ""}`} to="/"><AiOutlineHome /> Home</Link></li>
                     <li onClick={hideMenu}><Link className={`${currentRoute === '/About' ? "active" : ""}`} to="/About"><BsPerson /> About</Link></li>
-                    {/* <li onClick={hideMenu}><Link className={`${currentRoute === '/Project' ? "active" : ""}`} to="/Project"><BsCodeSlash /> Project</Link></li> */}
+                     <li onClick={hideMenu}><Link className={`${currentRoute === '/Qualification' ? "active" : ""}`} to="/Qualification"><BsCodeSlash /> Qualification</Link></li>
                     <li onClick={hideMenu}><Link className={`${currentRoute === '/Resume' ? "active" : ""}`} to="/Resume"><CgFileDocument /> Resume</Link></li>
                 </ul>
             </nav>

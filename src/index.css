@@ -332,6 +332,8 @@ b {
   width: 280px;
 }
 
+
+
 @media(max-width:900px) {
   .AboutPage {
     display: block;
@@ -355,6 +357,46 @@ b {
   .Avatar {
     width: 200px;
     margin-bottom: 75px;
+  }
+}
+
+/*Qualification*/
+.QualificationPage {
+  display: flex;
+  justify-content: space-evenly;
+  min-height: 80vh;
+  margin-top: 100px;
+  align-items: center;
+  padding: 25px;
+}
+
+.QualificationText {
+  width: 50%;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 1.2px;
+}
+.QualificationTextHeading {
+  font-size: 35px;
+  font-weight: 600;
+  padding-bottom: 40px;
+}
+
+@media(max-width:900px) {
+  .QualificationPage {
+    display: block;
+    text-align: center;
+    padding: 30px;
+  }
+
+  .QualificationText {
+    text-align: left;
+    display: inline-block;
+    width: 95%;
+    line-height: 24px;
+    letter-spacing: 0.6px;
+    margin-bottom: 80px;
   }
 }
 

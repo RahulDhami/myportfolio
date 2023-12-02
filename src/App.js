@@ -5,7 +5,7 @@ import Footer from "./Components/Footer";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Resume from "./Pages/Resume";
-import Project from "./Pages/Projects";
+// import Project from "./Pages/Projects";
 import MoveToTop from "./Components/MoveToTop";
 import Lottie from "lottie-react";
 import nightsky from "./LottieFiles/night-sky.json";
