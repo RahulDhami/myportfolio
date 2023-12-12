@@ -25,7 +25,7 @@ const Resume = () => {
           <Page pageNumber={1} scale={wid < 700 ? (wid > 475 ? 0.7 : 0.5) : 1} />
         </Document>
 
-        <a href={pdf} target='_blank' rel='noreferrer' download="Devender's Resume">
+        <a href={pdf} target='_blank' rel='noreferrer' download="Rahul's Resume">
           <button className='downloadCV' type='button'>
             <h3><BsDownload />&nbsp; Download CV</h3>
           </button>

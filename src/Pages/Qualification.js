@@ -9,7 +9,7 @@ const Qualification = () => {
       <h1 className='AboutTextHeading' > My <b>Qualifications</b>:</h1>
       <ul>
      
-        <li>Pursuing Bachelor's Degree in [Btech (CS)] - [Graphic Era hill University], [2022]</li>
+        <li>Pursuing Bachelor's Degree in [Btech (CSE)] - [Graphic Era hill University], [2022]</li>
         <br></br>
       <li>Intermediate with 85%-[Soar Valley Public School(CBSE Board)]</li>
       <br></br>

@@ -5,13 +5,13 @@ import Footer from "./Components/Footer";
 import Home from "./Pages/Home";
 import About from "./Pages/About";
 import Resume from "./Pages/Resume";
-// import Project from "./Pages/Projects";
+import Qualification from "./Pages/Qualification";
 import MoveToTop from "./Components/MoveToTop";
 import Lottie from "lottie-react";
 import nightsky from "./LottieFiles/night-sky.json";
 import HashLoader from "react-spinners/HashLoader";
 import Error404 from "./Pages/Error404";
-import Qualification from "./Pages/Qualification";
+
 
 
 function App() {

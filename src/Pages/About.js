@@ -14,9 +14,9 @@ const About = () => {
           <p>
 
             Hello, I'm <b>Rahul Singh Dhami</b> from Uttarakhand, India.
-            Currently Iam in 2nd.
-            Iam pursuing <b>B.Tech(CS)</b> from <b> Graphic Era Hill University,Bhimtal Campus.</b> 
-            I have good coding skills. I love to slove complex prolems and my aim to become a good <b>Software Developer.</b>           
+            Currently Iam in 2nd year of my college.
+            Iam pursuing <b>B.Tech[CSE]</b> from <b> Graphic Era Hill University,Bhimtal Campus.</b> 
+            I have good coding skills. I love to solve complex problems and my aim is to become a good <b>Software Developer.</b>           
           </p>
         </div>
 
